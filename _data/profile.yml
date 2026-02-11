@@ -3,7 +3,7 @@ secondary_name: "Lin Lin"
 navbar_name: "Homepage"
 
 positions:
-- logo: assets/images/badges/rca logo black.png# Logo is optional
+- logo: assets/images/badges/rca logo black.png 
   name: Product Designer | MA Design | Royal College of Art
 # - name: Position 2 without logo
 
@@ -25,22 +25,19 @@ short_bio: >-
   <p>
     I'm an innovation-driven interaction designer based on industrial design and digital art, 
     specialising in strategic design and social research.
-    understand human-environment interactions in 3D urban space, and leverage 3D Mesh Model, street view and remote sensing for urban perception and analysis.
+    
     <img src="assets/images/photos/interst.png" alt="Research Interests" 
          style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
 
   <p>
     I am currently a <strong>master student</strong> in Design Future at 
-    <a href="https://www.tamu.edu/" target="_blank">Texas A&M University</a>, 
+    <a href="https://www.rca.ac.uk" target="_blank">the Royal College of Arts</a>, 
     advised by Prof. <a href="https://scholar.google.com/citations?user=VRndhQEAAAAJ&hl=en" target="_blank">Lei Zou</a> in the 
     <a href="https://www.geoearlab.com/" target="_blank">TAMU GEAR Lab</a>. 
-    I previously earned my Master of Science in Spatial Data Science at the 
-    <a href="https://www.usc.edu/" target="_blank">University of Southern California</a>, 
-    advised by Prof. <a href="https://scholar.google.com.au/citations?user=0Hm7fD0AAAAJ&hl=en" target="_blank">Siqin Wang</a> 
-    and Prof. <a href="https://scholar.google.com/citations?user=fYZTZWgAAAAJ&hl=en" target="_blank">Yi Qi</a>. 
-    I hold a Bachelor of Economics in Finance from 
-    <a href="https://lxsy.nau.edu.cn/NanjingAuditUniversity/list.htm" target="_blank">Nanjing Audit University</a>.
+  
+    I hold a Bachelor of Industrial Design from 
+    <a href="https://www.lumei.edu.cn" target="_blank">Luxun Academy of Fine Arts</a>.
   </p>
 
   <p>
