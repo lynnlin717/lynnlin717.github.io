@@ -8,10 +8,10 @@ positions:
 # - name: Position 2 without logo
 
 
-email: "zongrong@tamu.edu"
+email: "177@qq.com"
 cv_link: /assets/CV/cv.pdf  #IDK
 gscholar: XbCCGC4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: Jasper0122
+github: Lynnlin717
 twitter: Jasperli0122  # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/wechat.jpg
 wechat_prompt: >- 
@@ -30,7 +30,7 @@ short_bio: >-
   </p>
 
   <p>
-    I am currently a <strong>Ph.D. student</strong> in Geographic Information Systems at 
+    I am currently a <strong>master student</strong> in Design Future at 
     <a href="https://www.tamu.edu/" target="_blank">Texas A&M University</a>, 
     advised by Prof. <a href="https://scholar.google.com/citations?user=VRndhQEAAAAJ&hl=en" target="_blank">Lei Zou</a> in the 
     <a href="https://www.geoearlab.com/" target="_blank">TAMU GEAR Lab</a>. 
