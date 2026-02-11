@@ -41,18 +41,6 @@ short_bio: >-
   </p>
 
   <p>
-    Previously, I was also a Research Assistant at 
-    <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>, 
-    working in the AI4City Lab with Prof. <a href="https://wufan-zhao.github.io/" target="_blank">Wufan Zhao</a>. 
-    Before that, I worked as a Data Science Intern at 
-    <a href="https://sites.google.com/view/hdscalecollab/" target="_blank">City of Hope</a> under the supervision of 
-    Dr. <a href="https://www.linkedin.com/in/jiue-an-jay-y-a1ab6737/" target="_blank">Jay Yang</a> 
-    and as a Research Assistant at 
-    <a href="https://www.polyu.edu.hk/en/" target="_blank">The Hong Kong Polytechnic University</a>, advised by 
-    Prof. <a href="https://zhiweili.net/" target="_blank">Zhiwei Li</a>.
-  </p>
-
-  <p>
     <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> 
     <span style="color: #d60000;">I am looking for collaborators and interns</span> 
     interested in GeoAI, Spatial Analysis, and their applications in urban science and human-environment interaction in 3D urban space. 
@@ -68,29 +56,16 @@ portrait_caption: >-
   Serve the cat, rule the world.
 
 education:
-- name: Texas A&M University
-  logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  position: Ph.D. in Geographic Information Systems
-  date: Aug. 2025 - Present
-- name: University of Southern California
-  logo: /assets/images/badges/usc.png
-  position: M.S. in Spatial Data Science
-  date: Aug. 2023 - May. 2025
-- name: Nanjing Audit University
-  logo: /assets/images/badges/NAU.png
-  position: B.A. in Economics, Finance
+- name: the Royal College of Arts
+  logo: assets/images/badges/rca logo black.png 
+  position: MDes in Design Future
+  date: Aug. 2023 - Present
+- name: Luxun Academy of Fine Arts
+  logo: assets/images/badges/lumei_logo.png
+  position: B.A. in Interaction Design, Industrial Design
   date: Sep. 2018 - Jul. 2022
 
 experience:
-- name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/UST.svg.png
-  position: Research Assistant - AI4City Lab
-  date: Aug. 2024 - Aug.2025
-
-- name: Harvard University
-  logo: /assets/images/badges/Harvard.png
-  position: Research Assistant - Spatial Data Lab
-  date: May. 2024 - Sep. 2024
 
 - name: City of Hope
   logo: /assets/images/badges/COH.png
